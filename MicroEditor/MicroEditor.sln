@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroEditor", "MicroEditor\MicroEditor.csproj", "{06794709-B9C1-4CB6-9AA4-1BD532997E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06794709-B9C1-4CB6-9AA4-1BD532997E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06794709-B9C1-4CB6-9AA4-1BD532997E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06794709-B9C1-4CB6-9AA4-1BD532997E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06794709-B9C1-4CB6-9AA4-1BD532997E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E2D094-917C-470B-8D2B-62B60638A04A}
+	EndGlobalSection
+EndGlobal
