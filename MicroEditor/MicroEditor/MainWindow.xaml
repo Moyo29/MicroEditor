@@ -19,10 +19,16 @@
                             <ColumnDefinition Width="100"/>
                         </Grid.ColumnDefinitions>
                     </Grid>
-                </ItemsPanelTemplate>
-            
-               
+                </ItemsPanelTemplate>              
             </StatusBar.ItemsPanel>
+            <StatusBarItem>
+                <TextBlock  x:Name="1bCursorPosition"/>
+            </StatusBarItem>
+            <Separator Grid.Column="1"/>
+            <Separator Grid.Column="2"/>
+            <TextBlock Text="Juancho.doc"/>
+            </StatusBarItem>
+        
         </StatusBar>
     </DockPanel>
     
